@@ -1,2 +1,2 @@
 # countdown
-Rachel Riley &amp; Susie Dent
+Rachel Riley Susie Dent & Jon Richardson
